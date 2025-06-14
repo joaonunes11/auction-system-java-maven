@@ -1,6 +1,6 @@
 # Auction System – Java Maven Project
 
-This project is a layered Java application for managing online auctions. It was developed for the course **Análise e Desenho de Software (ADS)** at Universidade Aberta, and follows object-oriented design principles and software architecture patterns.
+This project is a layered Java application for managing online auctions. It was developed for the course **Análise e Desenho de Software (ADS)** at Universidade de Lisboa, and follows object-oriented design principles and software architecture patterns.
 
 ## 🧩 Project Scope
 
